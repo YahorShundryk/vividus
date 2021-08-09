@@ -1,0 +1,2 @@
+|testBaseLineProfile	   		|testBaseLineBoards			    |testBaseLineTemplates			|testBaseLineHome			|testBaseLineHighlights|			
+|#{generate(regexify'[a-z]{5}')}|#{generate(regexify'[a-z]{6}')}|#{generate(regexify'[a-z]{7}')}|#{generate(regexify'[a-z]{8}')}|#{generate(regexify'[a-z]{9}')}|

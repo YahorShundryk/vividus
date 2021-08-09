@@ -1,0 +1,2 @@
+|email		 	  							|name				 |password							    |
+|#{generate(regexify '[a-z]{5}')}@mail.test |#{generate(regexify '[a-z]{5}')} |#{generate(regexify '[A-Za-z0-9]{8}')}|
